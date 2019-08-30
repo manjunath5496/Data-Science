@@ -157,7 +157,27 @@ Learning and Deep Learning Algorithms for Natural Language Processing</a></b></l
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(65).pdf" style="text-decoration:none;">Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(66).pdf" style="text-decoration:none;">Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(66).pdf" style="text-decoration:none;">Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(67).pdf" style="text-decoration:none;">Python Natural Language Processing</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(68).pdf" style="text-decoration:none;">Deep Learning in Natural Language Processing</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(69).pdf" style="text-decoration:none;">Natural Language Processing and Computational Linguistics</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(70).pdf" style="text-decoration:none;">Cognitive Approach to Natural Language Processing</a></b></li> 
+
+
+
+
+
+
+
+
+
+
+
+
 </ul>
 
 
