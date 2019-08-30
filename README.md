@@ -140,7 +140,9 @@ Learning and Deep Learning Algorithms for Natural Language Processing</a></b></l
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(03).pdf" style="text-decoration:none;">Problem Solving with Algorithms and Data Structures</a></b></li>  
   
-  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(04).pdf" style="text-decoration:none;">Introduction To Algorithms: A Creative Approach</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(05).pdf" style="text-decoration:none;">Algorithm Design</a></b></li>    
   
   
   
