@@ -146,6 +146,7 @@ Learning and Deep Learning Algorithms for Natural Language Processing</a></b></l
   
 </ul>
 
+</br>
 
 <h2> Natural Language Processing: </h2>
 
@@ -243,7 +244,155 @@ KONVENS 2008</a></b></li>
 
 </ul>
 
+</br>
 
+<h2> Machine Learning: </h2>
+
+<ul>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(98).pdf" style="text-decoration:none;">Machine Learning for Developers</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(99).pdf" style="text-decoration:none;">Machine Learning for Hackers</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(100).pdf" style="text-decoration:none;">Python Machine Learning Cookbook</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(101).pdf" style="text-decoration:none;">Python Machine Learning</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(102).pdf" style="text-decoration:none;">Real-World Machine Learning</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(103).pdf" style="text-decoration:none;">Python: Deeper Insights into Machine Learning</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(104).pdf" style="text-decoration:none;">Machine Learning for the Web</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(105).pdf" style="text-decoration:none;">Practical Machine Learning</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(106).pdf" style="text-decoration:none;">Large Scale Machine Learning with Spark</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(107).pdf" style="text-decoration:none;">Reinforcement Learning: With Open AI, TensorFlow and Keras Using Python</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(108).pdf" style="text-decoration:none;">Mastering Machine Learning with Python in Six Steps</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(109).pdf" style="text-decoration:none;">Practical Machine Learning with H2O</a></b></li>  
+  
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(110).pdf" style="text-decoration:none;">Thoughtful Machine Learning with Python: A Test-Driven Approach</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(111).pdf" style="text-decoration:none;">Python Machine Learning Case Studies</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(112).pdf" style="text-decoration:none;">Machine Learning Hands-On for Developers and Technical Professionals</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(113).pdf" style="text-decoration:none;">Python for Probability, Statistics, and Machine Learning</a></b></li>  
+  
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(114).pdf" style="text-decoration:none;">scikit-learn Cookbook</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(115).pdf" style="text-decoration:none;">Machine Learning Projects for .NET Developers</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(19).pdf" style="text-decoration:none;">Structure and Interpretation of Computer Programs</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(20).pdf" style="text-decoration:none;">Think Like a Programmer – An Introduction to Creative Problem Solving</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(21).pdf" style="text-decoration:none;">grokking algorithms</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(22).pdf" style="text-decoration:none;">Thinking Recursively</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(23).pdf" style="text-decoration:none;">Essential Algorithms: A Practical Approach to Computer Algorithms</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(24).pdf" style="text-decoration:none;">How to Think About Algorithms</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(25).pdf" style="text-decoration:none;">The Algorithm Design Manual</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(26).pdf" style="text-decoration:none;">Fast Fourier Transform: Algorithms and Applications</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(27).pdf" style="text-decoration:none;">The art of computer programming - Volume 2, Seminumerical algorithms</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(28).pdf" style="text-decoration:none;">Introduction to Algorithms</a></b></li>  
+  
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(29).pdf" style="text-decoration:none;">Learning Algorithms Through Programming and Puzzle Solving</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(30).pdf" style="text-decoration:none;">A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(31).pdf" style="text-decoration:none;">Algorithms on Strings, Trees, and Sequences</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(32).pdf" style="text-decoration:none;">Algorithms for Sensor Systems: 10th International Symposium on Algorithms and Experiments for Sensor Systems, Wireless Networks and Distributed Robotics, ALGOSENSORS 2014 Wroclaw, Poland, September 12, 2014 Revised Selected Papers</a></b></li>   
+  
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(33).pdf" style="text-decoration:none;">Problem Solving with Algorithms and Data Structures</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(34).pdf" style="text-decoration:none;">The Master Algorithm</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(35).pdf" style="text-decoration:none;">Python Algorithms: Mastering Basic Algorithms in the Python Language</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(36).pdf" style="text-decoration:none;">Clever Algorithms: Nature-Inspired Programming Recipes</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(37).pdf" style="text-decoration:none;">Applied Natural Language Processing with Python: Implementing Machine
+Learning and Deep Learning Algorithms for Natural Language Processing</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(38).pdf" style="text-decoration:none;">An Active Introduction to Discrete Mathematics and Algorithms</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(39).pdf" style="text-decoration:none;">Design and Analysis of Approximation Algorithms</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(40).pdf" style="text-decoration:none;">Algorithms Illuminated</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(41).pdf" style="text-decoration:none;">Data Mining Algorithms in C++: Data Patterns and Algorithms for Modern Applications</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(42).pdf" style="text-decoration:none;">Algorithms Unlocked</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(43).pdf" style="text-decoration:none;">Algorithms to Live By - The Computer Science of Human Decisions</a></b></li>   
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(45).pdf" style="text-decoration:none;">Algorithms, Flowcharts & Program Design</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(46).pdf" style="text-decoration:none;">Introduction to Design and Analysis of Algorithms </a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(47).pdf" style="text-decoration:none;">Practical Algorithms in Pediatric Hematology and Oncology</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(48).pdf" style="text-decoration:none;">Mathematical and Algorithmic Foundations of the Internet</a></b></li>  
+  
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(49).pdf" style="text-decoration:none;">Problems on Algorithms</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(50).pdf" style="text-decoration:none;">Techniques of the Average Case Analysis of Algorithms</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(51).pdf" style="text-decoration:none;">Analysis of Algorithms: An Active Learning Approach</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(52).pdf" style="text-decoration:none;">The Power of Algorithms</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(53).pdf" style="text-decoration:none;">Automate This: How Algorithms Took Over Our Markets, Our Jobs, and the World</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(54).pdf" style="text-decoration:none;">Principles of Algorithmic Problem Solving</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(55).pdf" style="text-decoration:none;">Purely Functional Data Structures</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(56).rar" style="text-decoration:none;">Algorithms For Interviews
+</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(57).pdf" style="text-decoration:none;">Hacker's Delight</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(58).rar" style="text-decoration:none;">Algorithms</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(59).rar" style="text-decoration:none;">Computer Algorithms</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(60).rar" style="text-decoration:none;">Evolutionary Algorithms in Engineering and Computer Science</a></b></li>  
+  
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(61).rar" style="text-decoration:none;">How to Solve it By Computer</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(62).pdf" style="text-decoration:none;">Selected papers on analysis of algorithms</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(44).pdf" style="text-decoration:none;">Algorithms and Data Structures: The Basic Toolbox</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(01).pdf" style="text-decoration:none;">Algorithms in C</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(02).pdf" style="text-decoration:none;">Mastering Algorithms with C</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(03).pdf" style="text-decoration:none;">Problem Solving with Algorithms and Data Structures</a></b></li>  
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(04).pdf" style="text-decoration:none;">Introduction To Algorithms: A Creative Approach</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(05).pdf" style="text-decoration:none;">Algorithm Design</a></b></li>    
+  
+</ul>
 
 
 
