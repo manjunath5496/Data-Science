@@ -167,7 +167,21 @@ Learning and Deep Learning Algorithms for Natural Language Processing</a></b></l
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(70).pdf" style="text-decoration:none;">Cognitive Approach to Natural Language Processing</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(71).pdf" style="text-decoration:none;">Multilingual Natural Language Processing Applications</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(72).pdf" style="text-decoration:none;">Mastering Natural Language Processing with Python</a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(73).pdf" style="text-decoration:none;">Handbook of Natural Language Processing</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(74).pdf" style="text-decoration:none;">Natural Language Processing with TensorFlow</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(75).pdf" style="text-decoration:none;">Natural Language Processing of Semitic Languages</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(76).pdf" style="text-decoration:none;">Deep Learning for Natural Language Processing: Creating Neural Networks with Python</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(77).pdf" style="text-decoration:none;">Machine Learning with PySpark: With Natural Language Processing and Recommender Systems</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(78).pdf" style="text-decoration:none;">Natural Language Processing in Action</a></b></li> 
 
 
 
