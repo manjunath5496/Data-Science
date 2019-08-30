@@ -225,6 +225,21 @@ KONVENS 2008</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(97).rar" style="text-decoration:none;">Python for Programmers</a></b></li> 
 
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(06).pdf" style="text-decoration:none;">Text Mining with R: A Tidy Approach</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(07).pdf" style="text-decoration:none;">Taming Text: How to Find, Organize, and Manipulate It</a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(08).pdf" style="text-decoration:none;">Introduction to Computational Linguistics</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(09).pdf" style="text-decoration:none;">Natural Language Annotation for Machine Learning</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(010).pdf" style="text-decoration:none;">Building Applied Natural Language Generation Systems</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(011).pdf" style="text-decoration:none;">Deep Learning for Natural Language Processing: Develop Deep Learning Models for Natural Language in Python</a></b></li>
+
+
+
+
 
 </ul>
 
