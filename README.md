@@ -1,4 +1,4 @@
-<h2> 16 Important Data Science Papers: </h2>
+<h2> Algorithms: </h2>
 
 <ul>
 
