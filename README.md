@@ -132,9 +132,13 @@ Learning and Deep Learning Algorithms for Natural Language Processing</a></b></l
      
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(62).pdf" style="text-decoration:none;">Selected papers on analysis of algorithms</a></b></li>
 
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(44).pdf" style="text-decoration:none;">Algorithms and Data Structures: The Basic Toolbox</a></b></li> 
   
-  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(01).pdf" style="text-decoration:none;">Algorithms in C</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(02).pdf" style="text-decoration:none;">Mastering Algorithms with C</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(03).pdf" style="text-decoration:none;">Problem Solving with Algorithms and Data Structures</a></b></li>  
   
   
   
