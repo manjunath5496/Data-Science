@@ -147,17 +147,17 @@ Learning and Deep Learning Algorithms for Natural Language Processing</a></b></l
 </ul>
 
 
-<h2> Algorithms: </h2>
+<h2> Natural Language Processing: </h2>
 
 <ul>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(1).pdf" style="text-decoration:none;">Network Routing: Algorithms, Protocols, and Architectures</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(63).pdf" style="text-decoration:none;">Python Deep Learning: Exploring deep learning techniques and neural network architectures with PyTorch, Keras, and TensorFlow</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(2).pdf" style="text-decoration:none;">Algorithm-Aided Building Information Modeling: Connecting Algorithm-Aided Design and Object-Oriented Design</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(64).pdf" style="text-decoration:none;">Handbook of Natural Language Processing and Machine Translation</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(3).pdf" style="text-decoration:none;">The Nature of Code</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(65).pdf" style="text-decoration:none;">Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(4).pdf" style="text-decoration:none;">Concurrent Programming: Algorithms, Principles, and Foundations</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(66).pdf" style="text-decoration:none;">Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning</a></b></li>   
 </ul>
 
 
