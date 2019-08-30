@@ -184,11 +184,45 @@ Learning and Deep Learning Algorithms for Natural Language Processing</a></b></l
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(78).pdf" style="text-decoration:none;">Natural Language Processing in Action</a></b></li> 
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(79).pdf" style="text-decoration:none;">Foundations of Statistical Natural Language Processing</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(80).pdf" style="text-decoration:none;">Semantic Approaches in Natural Language Processing</a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(81).pdf" style="text-decoration:none;">Aspects of Natural Language Processing</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(82).pdf" style="text-decoration:none;">Building Chatbots with Python: Using Natural Language Processing and Machine Learning</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(83).pdf" style="text-decoration:none;">Natural Language Processing with Python</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(84).pdf" style="text-decoration:none;">Ontology and the Lexicon: A Natural Language Processing Perspective</a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(85).pdf" style="text-decoration:none;">Natural Language Processing Recipes: Unlocking Text Data with Machine Learning and Deep Learning using Python</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(86).pdf" style="text-decoration:none;">Natural Language Processing and Cognitive Science</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(87).pdf" style="text-decoration:none;">Natural Language Processing and Text Mining</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(88).pdf" style="text-decoration:none;">Challenges in natural language processing</a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(89).pdf" style="text-decoration:none;">Bayesian Analysis in Natural Language Processing</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(90).pdf" style="text-decoration:none;">The Handbook of Computational Linguistics and Natural Language Processing</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(91).pdf" style="text-decoration:none;">Semantics-Oriented Natural Language Processing</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(92).pdf" style="text-decoration:none;">Applied Natural Language Processing with Python: Implementing Machine Learning and Deep Learning
+Algorithms for Natural Language Processing</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(93).pdf" style="text-decoration:none;">Natural Language Processing with Java</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(94).pdf" style="text-decoration:none;">Text Resources and Lexical Knowledge: Selected Papers from the 9th Conference on Natural Language Processing,
+KONVENS 2008</a></b></li> 
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(95).pdf" style="text-decoration:none;">Natural Language Processing for Online Applications</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(96).pdf" style="text-decoration:none;">Natural Language Processing Through Different Mathematical and Statistical Tools</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(97).rar" style="text-decoration:none;">Python for Programmers</a></b></li> 
 
 
 
