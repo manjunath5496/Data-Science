@@ -402,10 +402,42 @@ KONVENS 2008</a></b></li>
      
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(027).pdf" style="text-decoration:none;">The Deep Learning Revolution</a></b></li>  
   
+
+  </ul>
+
+</br>
+
+<h2> Artificial Intelligence: </h2>
+
+<ul>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(151).pdf" style="text-decoration:none;">AI Techniques for Game Programming</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(152).pdf" style="text-decoration:none;">Artificial Intelligence: A Systems Approach</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(153).pdf" style="text-decoration:none;">Artificial Intelligence</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(154).pdf" style="text-decoration:none;">Artificial Intelligence: Mirrors for the Mind</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(155).pdf" style="text-decoration:none;">Artificial Intelligence Illuminated</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(156).rar" style="text-decoration:none;">Artificial Intelligence in the 21st Century: a living introduction</a></b></li>
+  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(157).pdf" style="text-decoration:none;">Biologically Inspired Artificial Intelligence for Computer Games</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(158).pdf" style="text-decoration:none;">Fundamentals of the New Artificial Intelligence</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(159).pdf" style="text-decoration:none;">Genetic Fuzzy Systems: Evolutionary Tuning and Learning of Fuzzy Knowledge Bases</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(162).pdf" style="text-decoration:none;">Practical Python AI Projects: Mathematical Models of Optimization Problems with Google OR-Tools</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(163).pdf" style="text-decoration:none;">Artificial Intelligence with Python</a></b></li>     
+     
+ 
+  
   
   
   
   
   </ul>
-
-
