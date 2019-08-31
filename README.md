@@ -332,6 +332,25 @@ KONVENS 2008</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(136).pdf" style="text-decoration:none;">Python Machine Learning Blueprints</a></b></li>   
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(012).pdf" style="text-decoration:none;">Foundations of Machine Learning</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(013).pdf" style="text-decoration:none;">Pattern Recognition and Machine Learning</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(014).pdf" style="text-decoration:none;">The Hundred-Page Machine Learning Book</a></b></li>  
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(015).pdf" style="text-decoration:none;">Introduction to Machine Learning</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(016).pdf" style="text-decoration:none;">Machine Learning For Dummies</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(017).pdf" style="text-decoration:none;">Mathematics for Machine Learning</a></b></li  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
 </ul>
