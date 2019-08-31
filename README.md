@@ -392,9 +392,15 @@ KONVENS 2008</a></b></li>
      
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(023).pdf" style="text-decoration:none;">Reinforcement Learning: An Introduction</a></b></li> 
   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(021).pdf" style="text-decoration:none;">Learning Generative Adversarial Networks</a></b></li>
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(024).pdf" style="text-decoration:none;">Deep Learning for Computer Vision</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(025).pdf" style="text-decoration:none;">Neural Networks and Deep Learning</a></b></li> 
   
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(026).pdf" style="text-decoration:none;">Learning at the Speed of Light: Deep Learning and Accelerated Online Graduate Courses</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(027).pdf" style="text-decoration:none;">The Deep Learning Revolution</a></b></li>  
   
   
   
