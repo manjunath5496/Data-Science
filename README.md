@@ -442,7 +442,17 @@ KONVENS 2008</a></b></li>
      
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(165).pdf" style="text-decoration:none;">Artificial Intelligence By Example</a></b></li>     
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(166).pdf" style="text-decoration:none;">Elements of Artificial Neural Networks</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(167).pdf" style="text-decoration:none;">Artificial Intelligence for Games</a></b></li>   
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(168).pdf" style="text-decoration:none;">Artificial Intelligence and Expert Systems for Engineers</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(169).pdf" style="text-decoration:none;">Artificial Intelligence and Machine Learning Fundamentals</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(170).pdf" style="text-decoration:none;">Prediction Machines: The Simple Economics of Artificial Intelligence</a></b></li>   
   
-  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(171).pdf" style="text-decoration:none;">The 4th Industrial Revolution: Responding to the Impact of Artificial Intelligence on Business</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(172).pdf" style="text-decoration:none;">Artificial Intelligence For Dummies</a></b></li>  
   </ul>
