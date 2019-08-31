@@ -382,6 +382,24 @@ KONVENS 2008</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(150).pdf" style="text-decoration:none;">R Deep Learning Essentials</a></b></li>
   
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(018).pdf" style="text-decoration:none;">A Statistical Machine Learning Perspective of Deep Learning: Algorithm, Theory, Scalable Computing</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(019).pdf" style="text-decoration:none;">Advanced Deep Learning with Keras</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(020).pdf" style="text-decoration:none;">Deep Learning for Natural Language Processing: Creating Neural Networks with Python</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(022).pdf" style="text-decoration:none;">MATLAB Deep Learning</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/pg(023).pdf" style="text-decoration:none;">Reinforcement Learning: An Introduction</a></b></li> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
   </ul>
 
 
