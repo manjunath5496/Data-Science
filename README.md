@@ -364,6 +364,24 @@ KONVENS 2008</a></b></li>
      
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(142).pdf" style="text-decoration:none;">Deep Learning with Theano</a></b></li>
   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(143).pdf" style="text-decoration:none;">Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(144).pdf" style="text-decoration:none;">Grokking Deep Learning</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(145).pdf" style="text-decoration:none;">Introduction to Deep Learning Business Applications for Developers</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(146).pdf" style="text-decoration:none;">Java Deep Learning Essentials</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(147).pdf" style="text-decoration:none;">Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(148).pdf" style="text-decoration:none;">Python: Deeper Insights into Machine Learning</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(149).pdf" style="text-decoration:none;">Python Deep Learning: Next generation techniques to revolutionize computer vision, AI, speech and data analysis</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(150).pdf" style="text-decoration:none;">R Deep Learning Essentials</a></b></li>
+  
+  
   </ul>
 
 
