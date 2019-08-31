@@ -352,17 +352,17 @@ KONVENS 2008</a></b></li>
 
 <ul>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(1).pdf" style="text-decoration:none;">Network Routing: Algorithms, Protocols, and Architectures</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(137).pdf" style="text-decoration:none;">Deep Learning: A Practitioner's Approach</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(2).pdf" style="text-decoration:none;">Algorithm-Aided Building Information Modeling: Connecting Algorithm-Aided Design and Object-Oriented Design</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(138).pdf" style="text-decoration:none;">Deep Learning</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(3).pdf" style="text-decoration:none;">The Nature of Code</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(139).pdf" style="text-decoration:none;">Deep Learning with Applications Using Python: Chatbots and Face, Object, and Speech Recognition With TensorFlow and Keras</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(4).pdf" style="text-decoration:none;">Concurrent Programming: Algorithms, Principles, and Foundations</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(140).pdf" style="text-decoration:none;">Deep Learning with Python: A Hands-on Introduction</a></b></li>   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(5).pdf" style="text-decoration:none;">An Introduction to Distributed Algorithms</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(141).pdf" style="text-decoration:none;">Deep Learning with Python</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(6).pdf" style="text-decoration:none;">Planning Algorithms</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(142).pdf" style="text-decoration:none;">Deep Learning with Theano</a></b></li>
   
   </ul>
 
