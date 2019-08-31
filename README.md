@@ -434,8 +434,13 @@ KONVENS 2008</a></b></li>
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(163).pdf" style="text-decoration:none;">Artificial Intelligence with Python</a></b></li>     
      
- 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(160).pdf" style="text-decoration:none;">Artificial Intelligence for Big Data</a></b></li>   
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(161).pdf" style="text-decoration:none;">Life 3.0: Being Human in the Age of Artificial Intelligence</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(164).pdf" style="text-decoration:none;">Artificial Intelligence: A Guide to Intelligent Systems</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(165).pdf" style="text-decoration:none;">Artificial Intelligence By Example</a></b></li>     
   
   
   
