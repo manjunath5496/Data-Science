@@ -536,3 +536,24 @@ KONVENS 2008</a></b></li>
 and Knowledge Discovery</a></b></li>   
    
   </ul> 
+  
+  </br>
+  
+  <h2> Data Mining: </h2>
+
+<ul>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(173).rar" style="text-decoration:none;">Data Mining for Business Analytics</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(174).pdf" style="text-decoration:none;">R: Mining Spatial, Text, Web, and Social Media Data</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(175).pdf" style="text-decoration:none;">Mining the Social Web</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(176).pdf" style="text-decoration:none;">Mastering Blockchain</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(177).pdf" style="text-decoration:none;">Frontiers in Massive Data Analysis</a></b></li>     
+     
+</ul>  
+  
+  
+  
