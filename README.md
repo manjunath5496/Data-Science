@@ -602,7 +602,14 @@ and Survival Analysis</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(206).pdf" style="text-decoration:none;">Data Mining Techniques</a></b></li>     
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(207).pdf" style="text-decoration:none;">Transparent Data Mining for Big and Small Data</a></b></li>
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(208).pdf" style="text-decoration:none;">Data Preparation for Data Mining Using SAS</a></b></li> 
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(209).pdf" style="text-decoration:none;">Modeling and Data Mining in Blogosphere</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(210).pdf" style="text-decoration:none;">Data Mining with R: learning by case studies</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(213).pdf" style="text-decoration:none;">Mathematical Analysis for Machine Learning and Data Mining</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(214).pdf" style="text-decoration:none;">Post, Mine, Repeat: Social Media Data Mining Becomes Ordinary</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(215).pdf" style="text-decoration:none;">Intelligent Data Warehousing: From Data Preparation to Data Mining</a></b></li>
  
  
  
