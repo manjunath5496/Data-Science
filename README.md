@@ -520,8 +520,19 @@ KONVENS 2008</a></b></li>
       
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(246).pdf" style="text-decoration:none;">Building the Data Warehouse</a></b></li>  
    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(240).pdf" style="text-decoration:none;">A Manager's Guide to Data Warehousing</a></b></li>  
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(247).pdf" style="text-decoration:none;">Agile Analytics: A Value-Driven Approach to Business Intelligence and Data Warehousing</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(248).pdf" style="text-decoration:none;">Creating a Data-Driven Organization: Practical Advice from the Trenches</a></b></li>   
    
+      
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(249).pdf" style="text-decoration:none;">Discovering Knowledge in Data: An Introduction to Data Mining</a></b></li>   
    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(250).pdf" style="text-decoration:none;">The Kimball Group Reader: Relentlessly Practical Tools for Data Warehousing and Business Intelligence</a></b></li>   
    
+      
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(251).pdf" style="text-decoration:none;">Transactions on Large-Scale Data- and Knowledge- Centered Systems VIII: Special Issue on Advances in DataWarehousing
+and Knowledge Discovery</a></b></li>   
    
   </ul> 
