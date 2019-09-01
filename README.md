@@ -590,6 +590,20 @@ and Survival Analysis</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(198).pdf" style="text-decoration:none;">Data Preprocessing in Data Mining</a></b></li>     
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(200).pdf" style="text-decoration:none;">Automated Data Collection with R: A Practical Guide to Web Scraping and Text Mining</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(201).pdf" style="text-decoration:none;">Data Mining Algorithms in C++: Data Patterns and Algorithms for Modern Applications</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(202).pdf" style="text-decoration:none;">Data Mining for Genomics and Proteomics: Analysis of Gene and Protein Expression Data</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(203).pdf" style="text-decoration:none;">Data Mining for Managers</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(204).pdf" style="text-decoration:none;">Predictive Analytics, Data Mining and Big Data</a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(205).pdf" style="text-decoration:none;">Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(206).pdf" style="text-decoration:none;">Data Mining Techniques</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(207).pdf" style="text-decoration:none;">Transparent Data Mining for Big and Small Data</a></b></li>
+ 
+ 
+ 
  
  
  
