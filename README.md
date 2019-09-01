@@ -583,7 +583,12 @@ and Survival Analysis</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(193).pdf" style="text-decoration:none;">Making Sense of Data I: A Practical Guide to Exploratory Data Analysis and Data Mining</a></b></li>     
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(194).pdf" style="text-decoration:none;">Mining Massive Data Sets for Security: Advances in Data Mining, Search, Social Networks and Text Mining, and Their Applications to Security</a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(196).pdf" style="text-decoration:none;">Business Intelligence and Data Mining</a></b></li> 
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(197).pdf" style="text-decoration:none;">Discovering Knowledge in Data: An Introduction to Data Mining</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(198).pdf" style="text-decoration:none;">Data Preprocessing in Data Mining</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(200).pdf" style="text-decoration:none;">Automated Data Collection with R: A Practical Guide to Web Scraping and Text Mining</a></b></li>
  
  
  
