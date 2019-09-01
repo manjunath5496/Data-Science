@@ -552,7 +552,13 @@ and Knowledge Discovery</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(176).pdf" style="text-decoration:none;">Mastering Blockchain</a></b></li>   
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(177).pdf" style="text-decoration:none;">Frontiers in Massive Data Analysis</a></b></li>     
-     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(178).pdf" style="text-decoration:none;">Data Mining: Concepts and Techniques</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(179).pdf" style="text-decoration:none;">Data Mining for Business Intelligence: Concepts, Techniques, and Applications in Microsoft Office Excel with XLMiner </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(180).pdf" style="text-decoration:none;">Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(181).pdf" style="text-decoration:none;">Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery</a></b></li>      
 </ul>  
   
   
