@@ -485,27 +485,43 @@ KONVENS 2008</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(228).pdf" style="text-decoration:none;">Data Warehouse Requirements Engineering</a></b></li>   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(163).pdf" style="text-decoration:none;">Artificial Intelligence with Python</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(229).pdf" style="text-decoration:none;">Data Warehouse Systems: Design and Implementation</a></b></li>     
      
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(160).pdf" style="text-decoration:none;">Artificial Intelligence for Big Data</a></b></li>   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(230).pdf" style="text-decoration:none;">Data Warehouses and OLAP: Concepts, Architectures and Solutions</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(161).pdf" style="text-decoration:none;">Life 3.0: Being Human in the Age of Artificial Intelligence</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(231).pdf" style="text-decoration:none;">Data Warehousing in the Age of Big Data</a></b></li>   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(164).pdf" style="text-decoration:none;">Artificial Intelligence: A Guide to Intelligent Systems</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(232).pdf" style="text-decoration:none;">Data Warehousing</a></b></li>     
      
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(165).pdf" style="text-decoration:none;">Artificial Intelligence By Example</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(233).pdf" style="text-decoration:none;">Data Warehousing Fundamentals: A Comprehensive Guide for IT Professionals</a></b></li>     
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(166).pdf" style="text-decoration:none;">Elements of Artificial Neural Networks</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(234).pdf" style="text-decoration:none;">Developing a Data Warehouse for the Healthcare Enterprise: Lessons from the Trenches</a></b></li>     
      
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(167).pdf" style="text-decoration:none;">Artificial Intelligence for Games</a></b></li>   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(235).pdf" style="text-decoration:none;">Development of a Central Data Warehouse for Statewide ITS and Transportation Data in Florida</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(168).pdf" style="text-decoration:none;">Artificial Intelligence and Expert Systems for Engineers</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(236).pdf" style="text-decoration:none;">Data Warehousing Tutorial</a></b></li>   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(169).pdf" style="text-decoration:none;">Artificial Intelligence and Machine Learning Fundamentals</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(237).pdf" style="text-decoration:none;">Data Warehousing For Dummies</a></b></li>     
      
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(170).pdf" style="text-decoration:none;">Prediction Machines: The Simple Economics of Artificial Intelligence</a></b></li>   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(238).pdf" style="text-decoration:none;">Implementing a SQL Data Warehouse</a></b></li>   
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(171).pdf" style="text-decoration:none;">The 4th Industrial Revolution: Responding to the Impact of Artificial Intelligence on Business</a></b></li>     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(239).pdf" style="text-decoration:none;">Mastering Data Warehouse Design: Relational and Dimensional Techniques</a></b></li>     
      
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(172).pdf" style="text-decoration:none;">Artificial Intelligence For Dummies</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(241).pdf" style="text-decoration:none;">Practical Hive: A Guide to Hadoop's Data Warehouse System</a></b></li>  
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(242).pdf" style="text-decoration:none;">The Data Warehouse Lifecycle Toolkit</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(243).pdf" style="text-decoration:none;">The Data Warehouse Toolkit</a></b></li>  
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(244).pdf" style="text-decoration:none;">The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(245).pdf" style="text-decoration:none;">Web Data Management: A Warehouse Approach</a></b></li>   
+   
+      
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(246).pdf" style="text-decoration:none;">Building the Data Warehouse</a></b></li>  
+   
+   
+   
+   
+   
   </ul> 
