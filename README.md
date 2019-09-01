@@ -578,7 +578,11 @@ and Knowledge Discovery</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(191).pdf" style="text-decoration:none;">Regression Modeling Strategies: With Applications to Linear Models, Logistic and Ordinal Regression,
 and Survival Analysis</a></b></li> 
  
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(192).pdf" style="text-decoration:none;">Statistical and Machine-Learning Data Mining</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(193).pdf" style="text-decoration:none;">Making Sense of Data I: A Practical Guide to Exploratory Data Analysis and Data Mining</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(194).pdf" style="text-decoration:none;">Mining Massive Data Sets for Security: Advances in Data Mining, Search, Social Networks and Text Mining, and Their Applications to Security</a></b></li>
+
  
  
  
