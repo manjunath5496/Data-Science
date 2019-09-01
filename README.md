@@ -456,3 +456,56 @@ KONVENS 2008</a></b></li>
      
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(172).pdf" style="text-decoration:none;">Artificial Intelligence For Dummies</a></b></li>  
   </ul>
+  
+ 
+</br>
+
+<h2> Data Warehousing: </h2>
+
+<ul>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(151).pdf" style="text-decoration:none;">AI Techniques for Game Programming</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(152).pdf" style="text-decoration:none;">Artificial Intelligence: A Systems Approach</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(153).pdf" style="text-decoration:none;">Artificial Intelligence</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(154).pdf" style="text-decoration:none;">Artificial Intelligence: Mirrors for the Mind</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(155).pdf" style="text-decoration:none;">Artificial Intelligence Illuminated</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(156).rar" style="text-decoration:none;">Artificial Intelligence in the 21st Century: a living introduction</a></b></li>
+  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(157).pdf" style="text-decoration:none;">Biologically Inspired Artificial Intelligence for Computer Games</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(158).pdf" style="text-decoration:none;">Fundamentals of the New Artificial Intelligence</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(159).pdf" style="text-decoration:none;">Genetic Fuzzy Systems: Evolutionary Tuning and Learning of Fuzzy Knowledge Bases</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(162).pdf" style="text-decoration:none;">Practical Python AI Projects: Mathematical Models of Optimization Problems with Google OR-Tools</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(163).pdf" style="text-decoration:none;">Artificial Intelligence with Python</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(160).pdf" style="text-decoration:none;">Artificial Intelligence for Big Data</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(161).pdf" style="text-decoration:none;">Life 3.0: Being Human in the Age of Artificial Intelligence</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(164).pdf" style="text-decoration:none;">Artificial Intelligence: A Guide to Intelligent Systems</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(165).pdf" style="text-decoration:none;">Artificial Intelligence By Example</a></b></li>     
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(166).pdf" style="text-decoration:none;">Elements of Artificial Neural Networks</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(167).pdf" style="text-decoration:none;">Artificial Intelligence for Games</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(168).pdf" style="text-decoration:none;">Artificial Intelligence and Expert Systems for Engineers</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(169).pdf" style="text-decoration:none;">Artificial Intelligence and Machine Learning Fundamentals</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(170).pdf" style="text-decoration:none;">Prediction Machines: The Simple Economics of Artificial Intelligence</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(171).pdf" style="text-decoration:none;">The 4th Industrial Revolution: Responding to the Impact of Artificial Intelligence on Business</a></b></li>     
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(172).pdf" style="text-decoration:none;">Artificial Intelligence For Dummies</a></b></li>  
+  </ul> 
