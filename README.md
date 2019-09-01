@@ -558,7 +558,32 @@ and Knowledge Discovery</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(180).pdf" style="text-decoration:none;">Data Mining Techniques: For Marketing, Sales, and Customer Relationship Management</a></b></li>   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(181).pdf" style="text-decoration:none;">Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery</a></b></li>      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(181).pdf" style="text-decoration:none;">Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery</a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(182).pdf" style="text-decoration:none;">Data Mining and Analysis: Fundamental Concepts and Algorithms</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(183).pdf" style="text-decoration:none;">Advances in Data Mining: Applications in Medicine, Web Mining, Marketing, Image and Signal Mining</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(184).pdf" style="text-decoration:none;">Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(185).pdf" style="text-decoration:none;">Data Mining and Knowledge Discovery for Big Data: Methodologies, Challenge and Opportunities</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(186).pdf" style="text-decoration:none;">Data Warehousing and Data Mining</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(187).pdf" style="text-decoration:none;">Agents and Data Mining Interaction</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(189).pdf" style="text-decoration:none;">The Elements of Statistical Learning: Data Mining, Inference, and Prediction </a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(190).pdf" style="text-decoration:none;">Data Mining: Practical Machine Learning Tools and Techniques</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(191).pdf" style="text-decoration:none;">Regression Modeling Strategies: With Applications to Linear Models, Logistic and Ordinal Regression,
+and Survival Analysis</a></b></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 </ul>  
   
   
