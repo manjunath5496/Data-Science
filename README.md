@@ -624,8 +624,13 @@ and Survival Analysis</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(212).pdf" style="text-decoration:none;">Data Mining Methods and Models</a></b></li> 
  
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(219).pdf" style="text-decoration:none;">Dark Web: Exploring and Data Mining the Dark Side of the Web</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(220).pdf" style="text-decoration:none;">Data Mining for Social Network Data</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(221).pdf" style="text-decoration:none;">Granular-Relational Data Mining</a></b></li>
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(222).pdf" style="text-decoration:none;">Quantum Machine Learning: What Quantum Computing Means to Data Mining</a></b></li>
  
+
  
  
  
