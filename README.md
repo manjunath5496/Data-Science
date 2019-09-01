@@ -610,9 +610,10 @@ and Survival Analysis</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(213).pdf" style="text-decoration:none;">Mathematical Analysis for Machine Learning and Data Mining</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(214).pdf" style="text-decoration:none;">Post, Mine, Repeat: Social Media Data Mining Becomes Ordinary</a></b></li>     
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(215).pdf" style="text-decoration:none;">Intelligent Data Warehousing: From Data Preparation to Data Mining</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(216).pdf" style="text-decoration:none;">Data Mining and Big Data</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(217).pdf" style="text-decoration:none;">Predictive Analytics and Data Mining: Concepts and Practice with RapidMiner</a></b></li>
  
- 
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(218).pdf" style="text-decoration:none;">Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die</a></b></li>
  
 </ul>  
   
