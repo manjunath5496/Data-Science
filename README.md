@@ -464,26 +464,26 @@ KONVENS 2008</a></b></li>
 
 <ul>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(151).pdf" style="text-decoration:none;">AI Techniques for Game Programming</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(219).pdf" style="text-decoration:none;">Building and Managing the Meta Data Repository</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(152).pdf" style="text-decoration:none;">Artificial Intelligence: A Systems Approach</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(220).pdf" style="text-decoration:none;">Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(153).pdf" style="text-decoration:none;">Artificial Intelligence</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(221).pdf" style="text-decoration:none;">Building a Data Warehouse: With Examples in SQL Server</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(154).pdf" style="text-decoration:none;">Artificial Intelligence: Mirrors for the Mind</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(222).PDF" style="text-decoration:none;">Azure SQL Data Warehouse </a></b></li>   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(155).pdf" style="text-decoration:none;">Artificial Intelligence Illuminated</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(223).pdf" style="text-decoration:none;">Big Data Analytics Using Splunk: Deriving Operational Intelligence from Social Media, Machine Data, Existing Data Warehouses, and Other Real-Time Streaming Sources </a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(156).rar" style="text-decoration:none;">Artificial Intelligence in the 21st Century: a living introduction</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(224).pdf" style="text-decoration:none;">Big Data Imperatives: Enterprise Big Data Warehouse, BI Implementations and Analytics</a></b></li>
   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(157).pdf" style="text-decoration:none;">Biologically Inspired Artificial Intelligence for Computer Games</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(225).pdf" style="text-decoration:none;">Data Warehouse Design: Modern Principles and Methodologies</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(158).pdf" style="text-decoration:none;">Fundamentals of the New Artificial Intelligence</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(226).pdf" style="text-decoration:none;">Building and Maintaining a Data Warehouse</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(159).pdf" style="text-decoration:none;">Genetic Fuzzy Systems: Evolutionary Tuning and Learning of Fuzzy Knowledge Bases</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(227).pdf" style="text-decoration:none;">Common Warehouse Metamodel</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(162).pdf" style="text-decoration:none;">Practical Python AI Projects: Mathematical Models of Optimization Problems with Google OR-Tools</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(228).pdf" style="text-decoration:none;">Data Warehouse Requirements Engineering</a></b></li>   
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(163).pdf" style="text-decoration:none;">Artificial Intelligence with Python</a></b></li>     
      
