@@ -615,6 +615,22 @@ and Survival Analysis</a></b></li>
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(218).pdf" style="text-decoration:none;">Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die</a></b></li>
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(188).pdf" style="text-decoration:none;">Mining of Massive Datasets</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(195).pdf" style="text-decoration:none;">Think Bayes: Bayesian Statistics Made Simple</a></b></li>     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(199).pdf" style="text-decoration:none;">Data Jujitsu</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(211).pdf" style="text-decoration:none;">Data Mining: A Heuristic Approach</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(212).pdf" style="text-decoration:none;">Data Mining Methods and Models</a></b></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 </ul>  
   
   
