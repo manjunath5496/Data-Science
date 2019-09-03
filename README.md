@@ -724,37 +724,37 @@ Strategies</a></b></li>
 
 <ul>
      
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(403).pdf" style="text-decoration:none;">Probability and Measure</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(404).pdf" style="text-decoration:none;">The Elements of Statistical Learning: Data Mining, Inference, and Prediction</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(284).pdf" style="text-decoration:none;">Big Data: How Data Analytics Is Transforming the World</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(285).pdf" style="text-decoration:none;">Data analytics 2016: The Fifth International Conference on Data Analytics</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(405).pdf" style="text-decoration:none;">Mathematics for Machine Learning</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(406).pdf" style="text-decoration:none;">Advanced Calculus</a></b></li> 
-
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(407).pdf" style="text-decoration:none;">OpenIntro Statistics</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(408).pdf" style="text-decoration:none;">Linear Algebra and Its Applications</a></b></li> 
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(409).pdf" style="text-decoration:none;">Linear Algebra For Dummies</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(410).pdf" style="text-decoration:none;">1,001 Calculus Practice Problems For Dummies</a></b></li> 
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(411).pdf" style="text-decoration:none;">Introduction to Linear Algebra</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(412).pdf" style="text-decoration:none;">An Introduction to Statistical Learning: with Applications in R</a></b></li> 
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(413).pdf" style="text-decoration:none;">Calculus Made Easy</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(414).pdf" style="text-decoration:none;">Mathematical Problems in Data Science</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(286).pdf" style="text-decoration:none;">Advanced Data Analytics Using Python: With Machine Learning, Deep Learning and NLP Examples</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(287).pdf" style="text-decoration:none;">Agile Data Science 2.0: Building Full-Stack Data Analytics Applications with Spark</a></b></li> 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(415).pdf" style="text-decoration:none;">Calculus Demystified</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(416).pdf" style="text-decoration:none;">Elementary Linear Algebra</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(288).pdf" style="text-decoration:none;">Analytic Methods in Sports: Using Mathematics and Statistics to Understand Data from Baseball, Football, Basketball, and Other Sports</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(289).pdf" style="text-decoration:none;">Analytics in a Big Data World</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(417).pdf" style="text-decoration:none;">Understanding Probability: Chance Rules in Everyday Life</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(418).pdf" style="text-decoration:none;">A First Course in Probability </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(290).pdf" style="text-decoration:none;">Applied Microsoft Power BI: Bring your data to life!</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(291).pdf" style="text-decoration:none;">Applied Predictive Analytics</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(419).pdf" style="text-decoration:none;">Fundamentals of Applied Probability and Random Processes</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(420).pdf" style="text-decoration:none;">naked statistics: Stripping the Dread from the Data </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(292).pdf" style="text-decoration:none;">Big Data Analytics Beyond Hadoop</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(293).pdf" style="text-decoration:none;">Big Data Analytics with R and Hadoop</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(421).rar" style="text-decoration:none;">Elementary Calculus. An Infinitesimal Approach</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(422).rar" style="text-decoration:none;"> Probability, Random Variables And Stochastic Processes </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(294).pdf" style="text-decoration:none;">Big Data Analytics with Spark</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(295).pdf" style="text-decoration:none;">Big Data Analytics: Turning Big Data Into Big Money</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(296).pdf" style="text-decoration:none;">Big Data in Practice: How 45 Successful Companies Used Big Data Analytics to Deliver Extraordinary Results</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(297).pdf" style="text-decoration:none;">Big Data, Mining, and Analytics: Components ofStrategic Decision Making</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(298).pdf" style="text-decoration:none;">Big Data Analytics with Java</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(299).pdf" style="text-decoration:none;">Big-Data Analytics for Cloud, IoT and Cognitive Computing </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(300).pdf" style="text-decoration:none;">Building a Digital Analytics Organization: Create Value by Integrating Analytical Processes, Technology, and People into Business Operations</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(301).pdf" style="text-decoration:none;">Data Analytics Made Accessible </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(302).pdf" style="text-decoration:none;">Data Analytics: Models and Algorithms for Intelligent Data Analysis</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(303).pdf" style="text-decoration:none;"> Data Analytics and Linux Operating System 2 Bundle Manuscript </a></b></li>  
 
 </ul>
      
