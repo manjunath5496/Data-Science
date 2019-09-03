@@ -637,9 +637,9 @@ and Survival Analysis</a></b></li>
  
  
 </ul>  
+ </br> 
   
-  
-  <h2> Algorithms: </h2>
+  <h2> Business Intelligence: </h2>
 
 <ul>
 
