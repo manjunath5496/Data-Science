@@ -677,3 +677,25 @@ Strategies</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0389).pdf" style="text-decoration:none;">The Manager's Guide to Competitive Intelligence </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0388).pdf" style="text-decoration:none;">Business Intelligence Strategy: A Practical Guide for Achieving BI Excellence </a></b></li>  
   </ul>
+</br> 
+  
+  <h2> Mathematics for Data Science: </h2>
+
+<ul>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(403).pdf" style="text-decoration:none;">Probability and Measure</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(404).pdf" style="text-decoration:none;">The Elements of Statistical Learning: Data Mining, Inference, and Prediction</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(405).pdf" style="text-decoration:none;">Mathematics for Machine Learning</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(406).pdf" style="text-decoration:none;">Advanced Calculus</a></b></li> 
+
+
+
+
+
+
+
+
+
+
+</ul>
