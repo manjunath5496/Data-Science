@@ -643,11 +643,11 @@ and Survival Analysis</a></b></li>
 
 <ul>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(1).pdf" style="text-decoration:none;">Network Routing: Algorithms, Protocols, and Architectures</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(387).pdf" style="text-decoration:none;">Business Intelligence: Data Mining and Optimization for Decision Making</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(2).pdf" style="text-decoration:none;">Algorithm-Aided Building Information Modeling: Connecting Algorithm-Aided Design and Object-Oriented Design</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(389).pdf" style="text-decoration:none;">Business Intelligence and Analytics</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(3).pdf" style="text-decoration:none;">The Nature of Code</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(390).pdf" style="text-decoration:none;">Business Intelligence For Dummies</a></b></li>   
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(4).pdf" style="text-decoration:none;">Concurrent Programming: Algorithms, Principles, and Foundations</a></b></li>   
    
