@@ -785,7 +785,31 @@ Strategies</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(322).pdf" style="text-decoration:none;">Practical Text Analytics: Maximizing the Value of Text Data </a></b></li> 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(323).pdf" style="text-decoration:none;">Practical Web Analytics for User Experience</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(324).pdf" style="text-decoration:none;"> Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(324).pdf" style="text-decoration:none;"> Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die </a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(325).pdf" style="text-decoration:none;">Pro Hadoop Data Analytics: Designing and Building Big Data Systems using the Hadoop Ecosystem</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(326).pdf" style="text-decoration:none;">Python Data Analytics: Data Analysis and Science Using Pandas, matplotlib, and the Python Programming Language  </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(327).pdf" style="text-decoration:none;">Quantitative Trading: Algorithms, Analytics, Data, Models, Optimization</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(328).pdf" style="text-decoration:none;">Real-time Analytics with Storm and Cassandra </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(329).pdf" style="text-decoration:none;">SAS Essentials: Mastering SAS for Data Analytics</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(330).pdf" style="text-decoration:none;"> Scalable Big Data Architecture: A Practitioner's Guide to Choosing Relevant Big Data Architecture </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(331).pdf" style="text-decoration:none;">Statistical Data Analytics: Foundations for Data Mining, Informatics, and Knowledge Discovery</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(332).pdf" style="text-decoration:none;">Taming the Big Data Tidal Wave </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(333).pdf" style="text-decoration:none;">The Analytics Revolution: How to Improve Your Business By Making Analytics Operational In The Big Data Era</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(334).pdf" style="text-decoration:none;"> The Data and Analytics Playbook: Proven Methods for Governed Data and Analytic Quality </a></b></li> 
+
+
+
+
+
+
+
+
 </ul>
      
      
