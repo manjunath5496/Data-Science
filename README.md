@@ -819,23 +819,23 @@ Strategies</a></b></li>
 
 <ul>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(387).pdf" style="text-decoration:none;">Business Intelligence: Data Mining and Optimization for Decision Making</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(252).pdf" style="text-decoration:none;">Beautiful Visualization: Looking at Data through the Eyes of Experts</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(389).pdf" style="text-decoration:none;">Business Intelligence and Analytics</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(253).pdf" style="text-decoration:none;">Data Visualization and Exploration with R</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(390).pdf" style="text-decoration:none;">Business Intelligence For Dummies</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(254).pdf" style="text-decoration:none;">Visual Data Mining: Techniques and Tools for Data Visualization and Mining</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(391).pdf" style="text-decoration:none;">Business Intelligence Success Factors</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(255).pdf" style="text-decoration:none;">Data Visualization: Representing Information on Modern Web</a></b></li>   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(392).pdf" style="text-decoration:none;">Business Intelligence: A Managerial Perspective on Analytics</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(256).pdf" style="text-decoration:none;">Visual Six Sigma: Making Data Analysis Lean</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(393).pdf" style="text-decoration:none;">Business Intelligence: The Savvy Manager's Guide</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(257).pdf" style="text-decoration:none;">The Visual Imperative: Creating a Visual Culture of Data Discovery</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(394).pdf" style="text-decoration:none;">Data Mining for Business Analytics: Concepts, Techniques, and Applications in Microsoft Office Excel with XLMiner</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(258).pdf" style="text-decoration:none;">Expanding the Frontiers of Visual Analytics and Visualization</a></b></li>   
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(395).pdf" style="text-decoration:none;">Decision Trees for Business Intelligence and Data Mining</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(259).pdf" style="text-decoration:none;">Python Data Visualization Cookbook</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(396).pdf" style="text-decoration:none;">Successful Business Intelligence: Secrets to Making BI a Killer App</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(260).pdf" style="text-decoration:none;">data visualization with python and javascript: Crafting a Data-visualisation Toolchain for the Web</a></b></li>     
      
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(397).pdf" style="text-decoration:none;">Financial Business Intelligence</a></b></li>
 
