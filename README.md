@@ -803,9 +803,10 @@ Strategies</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(333).pdf" style="text-decoration:none;">The Analytics Revolution: How to Improve Your Business By Making Analytics Operational In The Big Data Era</a></b></li>     
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(334).pdf" style="text-decoration:none;"> The Data and Analytics Playbook: Proven Methods for Governed Data and Analytic Quality </a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(304).pdf" style="text-decoration:none;">Beginners' Guide to Analytics</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0304).pdf" style="text-decoration:none;"> Introduction to Data Analysis Handbook </a></b></li> 
 
-
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0305).pdf" style="text-decoration:none;"> Data Science: Theories, Models, Algorithms, and Analytics </a></b></li> 
 
 
 
