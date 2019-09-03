@@ -649,13 +649,13 @@ and Survival Analysis</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(390).pdf" style="text-decoration:none;">Business Intelligence For Dummies</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(4).pdf" style="text-decoration:none;">Concurrent Programming: Algorithms, Principles, and Foundations</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(391).pdf" style="text-decoration:none;">Business Intelligence Success Factors</a></b></li>   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(5).pdf" style="text-decoration:none;">An Introduction to Distributed Algorithms</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(392).pdf" style="text-decoration:none;">Business Intelligence: A Managerial Perspective on Analytics</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(6).pdf" style="text-decoration:none;">Planning Algorithms</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(393).pdf" style="text-decoration:none;">Business Intelligence: The Savvy Manager's Guide</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(7).pdf" style="text-decoration:none;">Algorithms in a Nutshell</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(394).pdf" style="text-decoration:none;">Algorithms in a Nutshell</a></b></li>   
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(8).pdf" style="text-decoration:none;">Algorithms Unplugged</a></b></li>
   
