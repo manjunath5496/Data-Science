@@ -755,7 +755,37 @@ Strategies</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(302).pdf" style="text-decoration:none;">Data Analytics: Models and Algorithms for Intelligent Data Analysis</a></b></li>     
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(303).pdf" style="text-decoration:none;"> Data Analytics and Linux Operating System 2 Bundle Manuscript </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(305).pdf" style="text-decoration:none;">Data Driven: How Performance Analytics Delivers Extraordinary Sales Results</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(306).pdf" style="text-decoration:none;">Data Just Right</a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(307).pdf" style="text-decoration:none;">Data Science – Analytics and Applications</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(308).pdf" style="text-decoration:none;">Data Science and Analytics with Python</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(309).pdf" style="text-decoration:none;">Data Strategy: How to profit from a world of big data, analytics and the internet of things</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(310).pdf" style="text-decoration:none;">Derivatives Analytics with Python</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(311).pdf" style="text-decoration:none;">Digital Analytics: Data Driven Decision Making in Digital World</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(312).pdf" style="text-decoration:none;"> Digital Marketing Analytics: Making Sense of Consumer Data in a Digital World</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(313).pdf" style="text-decoration:none;">Enterprise Analytics: Optimize Performance, Process, and Decisions Through Big Data</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(314).pdf" style="text-decoration:none;">Fraud and Fraud Detection: A Data Analytics Approach</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(315).pdf" style="text-decoration:none;">From Big Data to Big Profits: Success with Data and Analytics</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(295).pdf" style="text-decoration:none;">Big Data Analytics: Turning Big Data Into Big Money</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(296).pdf" style="text-decoration:none;">Big Data in Practice: How 45 Successful Companies Used Big Data Analytics to Deliver Extraordinary Results</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(297).pdf" style="text-decoration:none;">Big Data, Mining, and Analytics: Components ofStrategic Decision Making</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(298).pdf" style="text-decoration:none;">Big Data Analytics with Java</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(299).pdf" style="text-decoration:none;">Big-Data Analytics for Cloud, IoT and Cognitive Computing </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(300).pdf" style="text-decoration:none;">Building a Digital Analytics Organization: Create Value by Integrating Analytical Processes, Technology, and People into Business Operations</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(301).pdf" style="text-decoration:none;">Data Analytics Made Accessible </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(302).pdf" style="text-decoration:none;">Data Analytics: Models and Algorithms for Intelligent Data Analysis</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(303).pdf" style="text-decoration:none;"> Data Analytics and Linux Operating System 2 Bundle Manuscript </a></b></li>  
 </ul>
      
      
