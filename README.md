@@ -813,5 +813,45 @@ Strategies</a></b></li>
 
 </ul>
      
+  </br> 
+  
+  <h2> Data Visualization: </h2>
+
+<ul>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(387).pdf" style="text-decoration:none;">Business Intelligence: Data Mining and Optimization for Decision Making</a></b></li>     
      
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(389).pdf" style="text-decoration:none;">Business Intelligence and Analytics</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(390).pdf" style="text-decoration:none;">Business Intelligence For Dummies</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(391).pdf" style="text-decoration:none;">Business Intelligence Success Factors</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(392).pdf" style="text-decoration:none;">Business Intelligence: A Managerial Perspective on Analytics</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(393).pdf" style="text-decoration:none;">Business Intelligence: The Savvy Manager's Guide</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(394).pdf" style="text-decoration:none;">Data Mining for Business Analytics: Concepts, Techniques, and Applications in Microsoft Office Excel with XLMiner</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(395).pdf" style="text-decoration:none;">Decision Trees for Business Intelligence and Data Mining</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(396).pdf" style="text-decoration:none;">Successful Business Intelligence: Secrets to Making BI a Killer App</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(397).pdf" style="text-decoration:none;">Financial Business Intelligence</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(398).pdf" style="text-decoration:none;">Practical Tableau</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(399).pdf" style="text-decoration:none;">Quick Emotional Intelligence Activities For Busy Managers</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(400).pdf" style="text-decoration:none;">The AI Advantage: How to Put the Artificial Intelligence Revolution to Work</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(401).pdf" style="text-decoration:none;">Early Warning: Using Competitive Intelligence to Anticipate Market Shifts, Control Risk, and Create Powerful
+Strategies</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(402).pdf" style="text-decoration:none;">Big Data at Work: Dispelling the Myths, Uncovering the Opportunities </a></b></li>   
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(388).pdf" style="text-decoration:none;">Delivering Business Intelligence with Microsoft SQL Server 2008 </a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0389).pdf" style="text-decoration:none;">The Manager's Guide to Competitive Intelligence </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0388).pdf" style="text-decoration:none;">Business Intelligence Strategy: A Practical Guide for Achieving BI Excellence </a></b></li>  
+  </ul>
+    
      
