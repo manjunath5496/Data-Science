@@ -772,20 +772,20 @@ Strategies</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(314).pdf" style="text-decoration:none;">Fraud and Fraud Detection: A Data Analytics Approach</a></b></li> 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(315).pdf" style="text-decoration:none;">From Big Data to Big Profits: Success with Data and Analytics</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(295).pdf" style="text-decoration:none;">Big Data Analytics: Turning Big Data Into Big Money</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(316).pdf" style="text-decoration:none;">Getting Started with Data Science: Making Sense of Data with Analytics</a></b></li> 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(296).pdf" style="text-decoration:none;">Big Data in Practice: How 45 Successful Companies Used Big Data Analytics to Deliver Extraordinary Results</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(297).pdf" style="text-decoration:none;">Big Data, Mining, and Analytics: Components ofStrategic Decision Making</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(317).pdf" style="text-decoration:none;">Internet of Things and Big Data Analytics Toward Next-Generation Intelligence</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(318).pdf" style="text-decoration:none;">Lean Analytics: Use Data to Build a Better Startup Faster</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(298).pdf" style="text-decoration:none;">Big Data Analytics with Java</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(299).pdf" style="text-decoration:none;">Big-Data Analytics for Cloud, IoT and Cognitive Computing </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(319).pdf" style="text-decoration:none;">Learning Elastic Stack 6.0: A beginner's guide to distributed search, analytics, and visualization using Elasticsearch, Logstash, and Kibana</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(320).pdf" style="text-decoration:none;">Missing Data and Small-Area Estimation: Modern Analytical Equipment for the Survey Statistician  </a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(300).pdf" style="text-decoration:none;">Building a Digital Analytics Organization: Create Value by Integrating Analytical Processes, Technology, and People into Business Operations</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(301).pdf" style="text-decoration:none;">Data Analytics Made Accessible </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(321).pdf" style="text-decoration:none;">Modern Big Data Processing with Hadoop</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(322).pdf" style="text-decoration:none;">Practical Text Analytics: Maximizing the Value of Text Data </a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(302).pdf" style="text-decoration:none;">Data Analytics: Models and Algorithms for Intelligent Data Analysis</a></b></li>     
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(303).pdf" style="text-decoration:none;"> Data Analytics and Linux Operating System 2 Bundle Manuscript </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(323).pdf" style="text-decoration:none;">Practical Web Analytics for User Experience</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(324).pdf" style="text-decoration:none;"> Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die </a></b></li>  
 </ul>
      
      
