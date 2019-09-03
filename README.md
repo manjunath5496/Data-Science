@@ -717,3 +717,46 @@ Strategies</a></b></li>
 
 
 </ul>
+
+</br> 
+  
+  <h2> Data Analytics: </h2>
+
+<ul>
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(403).pdf" style="text-decoration:none;">Probability and Measure</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(404).pdf" style="text-decoration:none;">The Elements of Statistical Learning: Data Mining, Inference, and Prediction</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(405).pdf" style="text-decoration:none;">Mathematics for Machine Learning</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(406).pdf" style="text-decoration:none;">Advanced Calculus</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(407).pdf" style="text-decoration:none;">OpenIntro Statistics</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(408).pdf" style="text-decoration:none;">Linear Algebra and Its Applications</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(409).pdf" style="text-decoration:none;">Linear Algebra For Dummies</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(410).pdf" style="text-decoration:none;">1,001 Calculus Practice Problems For Dummies</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(411).pdf" style="text-decoration:none;">Introduction to Linear Algebra</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(412).pdf" style="text-decoration:none;">An Introduction to Statistical Learning: with Applications in R</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(413).pdf" style="text-decoration:none;">Calculus Made Easy</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(414).pdf" style="text-decoration:none;">Mathematical Problems in Data Science</a></b></li> 
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(415).pdf" style="text-decoration:none;">Calculus Demystified</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(416).pdf" style="text-decoration:none;">Elementary Linear Algebra</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(417).pdf" style="text-decoration:none;">Understanding Probability: Chance Rules in Everyday Life</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(418).pdf" style="text-decoration:none;">A First Course in Probability </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(419).pdf" style="text-decoration:none;">Fundamentals of Applied Probability and Random Processes</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(420).pdf" style="text-decoration:none;">naked statistics: Stripping the Dread from the Data </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(421).rar" style="text-decoration:none;">Elementary Calculus. An Infinitesimal Approach</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(422).rar" style="text-decoration:none;"> Probability, Random Variables And Stochastic Processes </a></b></li>  
+
+</ul>
+     
+     
+     
