@@ -674,6 +674,6 @@ Strategies</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(402).pdf" style="text-decoration:none;">Big Data at Work: Dispelling the Myths, Uncovering the Opportunities </a></b></li>   
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(388).pdf" style="text-decoration:none;">Delivering Business Intelligence with Microsoft SQL Server 2008 </a></b></li>  
-  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0389).pdf" style="text-decoration:none;">The Manager's Guide to Competitive Intelligence </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0388).pdf" style="text-decoration:none;">Business Intelligence Strategy: A Practical Guide for Achieving BI Excellence </a></b></li>  
   </ul>
