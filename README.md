@@ -639,4 +639,31 @@ and Survival Analysis</a></b></li>
 </ul>  
   
   
+  <h2> Algorithms: </h2>
+
+<ul>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(1).pdf" style="text-decoration:none;">Network Routing: Algorithms, Protocols, and Architectures</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(2).pdf" style="text-decoration:none;">Algorithm-Aided Building Information Modeling: Connecting Algorithm-Aided Design and Object-Oriented Design</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(3).pdf" style="text-decoration:none;">The Nature of Code</a></b></li>   
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(4).pdf" style="text-decoration:none;">Concurrent Programming: Algorithms, Principles, and Foundations</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(5).pdf" style="text-decoration:none;">An Introduction to Distributed Algorithms</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(6).pdf" style="text-decoration:none;">Planning Algorithms</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(7).pdf" style="text-decoration:none;">Algorithms in a Nutshell</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(8).pdf" style="text-decoration:none;">Algorithms Unplugged</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(9).pdf" style="text-decoration:none;">Guide to Competitive Programming: Learning and Improving Algorithms Through Contests</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(10).pdf" style="text-decoration:none;">Algorithms of the Intelligent Web</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(11).pdf" style="text-decoration:none;">Introduction to Genetic Algorithms</a></b></li> 
+  
+  
+  </ul>
