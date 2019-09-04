@@ -936,6 +936,11 @@ Strategies</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(371).pdf" style="text-decoration:none;">MySQL for Python </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(372).pdf" style="text-decoration:none;">Oracle Database 11gR2 Performance Tuning Cookbook</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(373).pdf" style="text-decoration:none;">PostgreSQL 9 Administration Cookbook</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(374).pdf" style="text-decoration:none;">PostgreSQL 9 High Availability Cookbook </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(375).pdf" style="text-decoration:none;">PostgreSQL Development Essentials </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(376).pdf" style="text-decoration:none;">PostgreSQL Server Programming </a></b></li>
 
 
   </ul>   
