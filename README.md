@@ -905,15 +905,15 @@ Strategies</a></b></li>
      
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(348).pdf" style="text-decoration:none;">Distributed Database Management Systems: A Practical Approach</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(266).pdf" style="text-decoration:none;">Making Sense of Data II: A Practical Guide to Data Visualization, Advanced Data Mining Methods, and Applications </a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(349).pdf" style="text-decoration:none;">Essential SQLAlchemy </a></b></li>   
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(267).pdf" style="text-decoration:none;">Big Data and Visual Analytics</a></b></li>  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(268).pdf" style="text-decoration:none;">Mastering Data Analysis with R: Gain clear insights into your data and solve real-world data science problems with R – from data munging to modeling and visualization </a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(269).pdf" style="text-decoration:none;">Google Visualization API Essentials </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(350).pdf" style="text-decoration:none;">Expert Oracle Database Architecture </a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(351).pdf" style="text-decoration:none;">Foundations of Databases </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(352).pdf" style="text-decoration:none;">Fundamentals of Database Systems</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(270).pdf" style="text-decoration:none;">Mathematics and Visualization</a></b></li>  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(271).pdf" style="text-decoration:none;">Beginning Data Science in R: Data Analysis, Visualization, and Modelling for the Data Scientist </a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(272).pdf" style="text-decoration:none;">Data Science with Julia </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(353).pdf" style="text-decoration:none;">Hands-On Database: An Introduction to Database Design and Development</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(354).pdf" style="text-decoration:none;">Modern Database Management </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(355).pdf" style="text-decoration:none;">New Trends in Databases and Information Systems </a></b></li>
 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(273).pdf" style="text-decoration:none;">Data Visualization: A Guide to Visual Storytelling for Libraries</a></b></li>  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(274).pdf" style="text-decoration:none;">Data Visualization with D3.js Cookbook</a></b></li> 
