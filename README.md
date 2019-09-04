@@ -864,9 +864,11 @@ Strategies</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(277).pdf" style="text-decoration:none;">Bayes' Theorem: A Visual Introduction for Beginners </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(278).pdf" style="text-decoration:none;">Visual Research: A Concise Introduction to Thinking Visually </a></b></li>
 
-
-
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(279).rar" style="text-decoration:none;">Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(280).rar" style="text-decoration:none;">Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(281).pdf" style="text-decoration:none;">Effective Data Visualization: The Right Chart for the Right Data </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(282).pdf" style="text-decoration:none;">The Functional Art: An introduction to information graphics and visualization </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(283).pdf" style="text-decoration:none;">Help Your Kids with Computer Science </a></b></li>
 
   </ul>
     
