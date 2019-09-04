@@ -837,21 +837,20 @@ Strategies</a></b></li>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(260).pdf" style="text-decoration:none;">data visualization with python and javascript: Crafting a Data-visualisation Toolchain for the Web</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(397).pdf" style="text-decoration:none;">Financial Business Intelligence</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(261).pdf" style="text-decoration:none;">Practical Data Science Cookbook</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(398).pdf" style="text-decoration:none;">Practical Tableau</a></b></li> 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(399).pdf" style="text-decoration:none;">Quick Emotional Intelligence Activities For Busy Managers</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(262).pdf" style="text-decoration:none;">The Handbook of Statistics</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(263).pdf" style="text-decoration:none;">Data Visualization with Flash Builder: Designing RIA and AIR Applications with Remote Data Sources</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(400).pdf" style="text-decoration:none;">The AI Advantage: How to Put the Artificial Intelligence Revolution to Work</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(264).pdf" style="text-decoration:none;">Data Analysis and Visualization Using Python: Analyze Data to Create Visualizations for BI Systems</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(401).pdf" style="text-decoration:none;">Early Warning: Using Competitive Intelligence to Anticipate Market Shifts, Control Risk, and Create Powerful
-Strategies</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(265).pdf" style="text-decoration:none;">D3 Tips and Tricks: Interactive Data Visualization in a Web Browser</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(402).pdf" style="text-decoration:none;">Big Data at Work: Dispelling the Myths, Uncovering the Opportunities </a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(266).pdf" style="text-decoration:none;">Making Sense of Data II: A Practical Guide to Data Visualization, Advanced Data Mining Methods, and Applications </a></b></li>   
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(388).pdf" style="text-decoration:none;">Delivering Business Intelligence with Microsoft SQL Server 2008 </a></b></li>  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0389).pdf" style="text-decoration:none;">The Manager's Guide to Competitive Intelligence </a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0388).pdf" style="text-decoration:none;">Business Intelligence Strategy: A Practical Guide for Achieving BI Excellence </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(267).pdf" style="text-decoration:none;">Big Data and Visual Analytics</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(268).pdf" style="text-decoration:none;">Mastering Data Analysis with R: Gain clear insights into your data and solve real-world data science problems with R – from data munging to modeling and visualization </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(269).pdf" style="text-decoration:none;">Google Visualization API Essentials </a></b></li>  
   </ul>
     
      
