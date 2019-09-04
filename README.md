@@ -951,5 +951,7 @@ Strategies</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(383).pdf" style="text-decoration:none;">Joe Celko's Complete Guide to NoSQL</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(384).pdf" style="text-decoration:none;">Microsoft SQL Server 2012 TSQL Fundamentals</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(385).pdf" style="text-decoration:none;">The Art of SQL</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(386).pdf" style="text-decoration:none;">The Art of SQL</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(386).pdf" style="text-decoration:none;">Data Modeling Essentials</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0036).pdf" style="text-decoration:none;">Database in Depth: The Relational Model for Practitioners</a></b></li>
+
   </ul>   
