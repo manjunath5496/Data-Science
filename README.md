@@ -884,26 +884,26 @@ Strategies</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(337).pdf" style="text-decoration:none;">Beginning Databases with PostgreSQL: From Novice to Professional</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(255).pdf" style="text-decoration:none;">Data Visualization: Representing Information on Modern Web</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(338).pdf" style="text-decoration:none;">Database Design for Mere Mortals</a></b></li>   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(256).pdf" style="text-decoration:none;">Visual Six Sigma: Making Data Analysis Lean</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(339).pdf" style="text-decoration:none;">Database Design: Know It All</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(257).pdf" style="text-decoration:none;">The Visual Imperative: Creating a Visual Culture of Data Discovery</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(340).pdf" style="text-decoration:none;">Database Management System Tutorial</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(258).pdf" style="text-decoration:none;">Expanding the Frontiers of Visual Analytics and Visualization</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(341).pdf" style="text-decoration:none;">Database System Concepts</a></b></li>   
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(259).pdf" style="text-decoration:none;">Python Data Visualization Cookbook</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(342).pdf" style="text-decoration:none;">Database Systems: Design, Implementation, and Management</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(260).pdf" style="text-decoration:none;">data visualization with python and javascript: Crafting a Data-visualisation Toolchain for the Web</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(343).pdf" style="text-decoration:none;">Databases Demystified</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(261).pdf" style="text-decoration:none;">Practical Data Science Cookbook</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(344).pdf" style="text-decoration:none;">Databases for Small Business</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(262).pdf" style="text-decoration:none;">The Handbook of Statistics</a></b></li> 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(263).pdf" style="text-decoration:none;">Data Visualization with Flash Builder: Designing RIA and AIR Applications with Remote Data Sources</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(345).pdf" style="text-decoration:none;">Databases Theory and Applications</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(346).pdf" style="text-decoration:none;">Databases: A Beginner's Guide</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(264).pdf" style="text-decoration:none;">Data Analysis and Visualization Using Python: Analyze Data to Create Visualizations for BI Systems</a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(347).rar" style="text-decoration:none;">Database Solutions: A step-by-step guide to building databases</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(265).pdf" style="text-decoration:none;">D3 Tips and Tricks: Interactive Data Visualization in a Web Browser</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(348).pdf" style="text-decoration:none;">Distributed Database Management Systems: A Practical Approach</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(266).pdf" style="text-decoration:none;">Making Sense of Data II: A Practical Guide to Data Visualization, Advanced Data Mining Methods, and Applications </a></b></li>   
   
