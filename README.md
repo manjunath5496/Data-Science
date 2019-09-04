@@ -872,7 +872,7 @@ Strategies</a></b></li>
 
   </ul>
     
-    </br> 
+</br> 
   
   <h2> Databases: </h2>
 
