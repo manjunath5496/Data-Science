@@ -878,11 +878,11 @@ Strategies</a></b></li>
 
 <ul>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(252).pdf" style="text-decoration:none;">Beautiful Visualization: Looking at Data through the Eyes of Experts</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(335).pdf" style="text-decoration:none;">A First Course in Database Systems</a></b></li>     
      
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(253).pdf" style="text-decoration:none;">Data Visualization and Exploration with R</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(336).pdf" style="text-decoration:none;">Advances in Databases: Concepts, Systems and Applications</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(254).pdf" style="text-decoration:none;">Visual Data Mining: Techniques and Tools for Data Visualization and Mining</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(337).pdf" style="text-decoration:none;">Beginning Databases with PostgreSQL: From Novice to Professional</a></b></li>   
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(255).pdf" style="text-decoration:none;">Data Visualization: Representing Information on Modern Web</a></b></li>   
    
