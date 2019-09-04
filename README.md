@@ -947,7 +947,9 @@ Strategies</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(380).pdf" style="text-decoration:none;">The Definitive Guide to MongoDB</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(381).pdf" style="text-decoration:none;">Creating your MySQL Database: Practical Design Tips and Techniques </a></b></li>
 
-
-
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(382).pdf" style="text-decoration:none;">Database Design and Relational Theory </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(383).pdf" style="text-decoration:none;">Joe Celko's Complete Guide to NoSQL</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(384).pdf" style="text-decoration:none;">Microsoft SQL Server 2012 TSQL Fundamentals</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(385).pdf" style="text-decoration:none;">The Art of SQL</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(386).pdf" style="text-decoration:none;">The Art of SQL</a></b></li>
   </ul>   
