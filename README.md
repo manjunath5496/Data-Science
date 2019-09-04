@@ -872,4 +872,61 @@ Strategies</a></b></li>
 
   </ul>
     
+    </br> 
+  
+  <h2> Databases: </h2>
+
+<ul>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(252).pdf" style="text-decoration:none;">Beautiful Visualization: Looking at Data through the Eyes of Experts</a></b></li>     
      
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(253).pdf" style="text-decoration:none;">Data Visualization and Exploration with R</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(254).pdf" style="text-decoration:none;">Visual Data Mining: Techniques and Tools for Data Visualization and Mining</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(255).pdf" style="text-decoration:none;">Data Visualization: Representing Information on Modern Web</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(256).pdf" style="text-decoration:none;">Visual Six Sigma: Making Data Analysis Lean</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(257).pdf" style="text-decoration:none;">The Visual Imperative: Creating a Visual Culture of Data Discovery</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(258).pdf" style="text-decoration:none;">Expanding the Frontiers of Visual Analytics and Visualization</a></b></li>   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(259).pdf" style="text-decoration:none;">Python Data Visualization Cookbook</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(260).pdf" style="text-decoration:none;">data visualization with python and javascript: Crafting a Data-visualisation Toolchain for the Web</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(261).pdf" style="text-decoration:none;">Practical Data Science Cookbook</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(262).pdf" style="text-decoration:none;">The Handbook of Statistics</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(263).pdf" style="text-decoration:none;">Data Visualization with Flash Builder: Designing RIA and AIR Applications with Remote Data Sources</a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(264).pdf" style="text-decoration:none;">Data Analysis and Visualization Using Python: Analyze Data to Create Visualizations for BI Systems</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(265).pdf" style="text-decoration:none;">D3 Tips and Tricks: Interactive Data Visualization in a Web Browser</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(266).pdf" style="text-decoration:none;">Making Sense of Data II: A Practical Guide to Data Visualization, Advanced Data Mining Methods, and Applications </a></b></li>   
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(267).pdf" style="text-decoration:none;">Big Data and Visual Analytics</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(268).pdf" style="text-decoration:none;">Mastering Data Analysis with R: Gain clear insights into your data and solve real-world data science problems with R – from data munging to modeling and visualization </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(269).pdf" style="text-decoration:none;">Google Visualization API Essentials </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(270).pdf" style="text-decoration:none;">Mathematics and Visualization</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(271).pdf" style="text-decoration:none;">Beginning Data Science in R: Data Analysis, Visualization, and Modelling for the Data Scientist </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(272).pdf" style="text-decoration:none;">Data Science with Julia </a></b></li>
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(273).pdf" style="text-decoration:none;">Data Visualization: A Guide to Visual Storytelling for Libraries</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(274).pdf" style="text-decoration:none;">Data Visualization with D3.js Cookbook</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(275).pdf" style="text-decoration:none;">Mathematica Data Visualization </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(276).pdf" style="text-decoration:none;">Learning QlikView Data Visualization</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(277).pdf" style="text-decoration:none;">Bayes' Theorem: A Visual Introduction for Beginners </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(278).pdf" style="text-decoration:none;">Visual Research: A Concise Introduction to Thinking Visually </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(279).rar" style="text-decoration:none;">Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(280).rar" style="text-decoration:none;">Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(281).pdf" style="text-decoration:none;">Effective Data Visualization: The Right Chart for the Right Data </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(282).pdf" style="text-decoration:none;">The Functional Art: An introduction to information graphics and visualization </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(283).pdf" style="text-decoration:none;">Help Your Kids with Computer Science </a></b></li>
+
+  </ul>   
