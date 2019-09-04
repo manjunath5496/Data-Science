@@ -923,10 +923,19 @@ Strategies</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(360).pdf" style="text-decoration:none;">The Database Hacker's Handbook: Defending Database Servers </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(361).pdf" style="text-decoration:none;">The Manga Guide to Databases </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(362).pdf" style="text-decoration:none;">Web,Web-Services, and Database Systems</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(362).pdf" style="text-decoration:none;">Web, Web-Services, and Database Systems</a></b></li>  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(363).pdf" style="text-decoration:none;">Graph Databases </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(364).pdf" style="text-decoration:none;">Learning Azure DocumentDB </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(365).pdf" style="text-decoration:none;">Learning Neo4j </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(366).pdf" style="text-decoration:none;">Learning PostgreSQL </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(367).pdf" style="text-decoration:none;">Mastering RethinkDB</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(368).pdf" style="text-decoration:none;">Microsoft SQL Azure: Enterprise Application Development </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(369).pdf" style="text-decoration:none;">Microsoft SQL Server 2012 Integration Services: An Expert Cookbook </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(370).pdf" style="text-decoration:none;">MongoDB Basics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(371).pdf" style="text-decoration:none;">MySQL for Python </a></b></li>
+
+
+
 
   </ul>   
