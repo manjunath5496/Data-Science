@@ -915,12 +915,12 @@ Strategies</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(354).pdf" style="text-decoration:none;">Modern Database Management </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(355).pdf" style="text-decoration:none;">New Trends in Databases and Information Systems </a></b></li>
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(273).pdf" style="text-decoration:none;">Data Visualization: A Guide to Visual Storytelling for Libraries</a></b></li>  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(274).pdf" style="text-decoration:none;">Data Visualization with D3.js Cookbook</a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(275).pdf" style="text-decoration:none;">Mathematica Data Visualization </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(356).pdf" style="text-decoration:none;">Database Management Systems</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(357).pdf" style="text-decoration:none;">Refactoring Databases: Evolutionary Database Design</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(358).pdf" style="text-decoration:none;">Seven Databases in Seven Weeks </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(276).pdf" style="text-decoration:none;">Learning QlikView Data Visualization</a></b></li>  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(277).pdf" style="text-decoration:none;">Bayes' Theorem: A Visual Introduction for Beginners </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(359).pdf" style="text-decoration:none;">SQL For Dummies</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(360).pdf" style="text-decoration:none;">The Database Hacker's Handbook: Defending Database Servers </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(278).pdf" style="text-decoration:none;">Visual Research: A Concise Introduction to Thinking Visually </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(279).rar" style="text-decoration:none;">Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures</a></b></li>  
