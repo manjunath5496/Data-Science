@@ -935,12 +935,19 @@ Strategies</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(370).pdf" style="text-decoration:none;">MongoDB Basics </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(371).pdf" style="text-decoration:none;">MySQL for Python </a></b></li>
 
-
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(372).pdf" style="text-decoration:none;">Oracle Database 11gR2 Performance Tuning Cookbook</a></b></li>  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(373).pdf" style="text-decoration:none;">PostgreSQL 9 Administration Cookbook</a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(374).pdf" style="text-decoration:none;">PostgreSQL 9 High Availability Cookbook </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(375).pdf" style="text-decoration:none;">PostgreSQL Development Essentials </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(376).pdf" style="text-decoration:none;">PostgreSQL Server Programming </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(377).pdf" style="text-decoration:none;">Pro SQL Server Internals</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(378).pdf" style="text-decoration:none;">SQL Server 2014 Development Essentials</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(379).pdf" style="text-decoration:none;">SQL Server 2016 Reporting Services Cookbook </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(380).pdf" style="text-decoration:none;">The Definitive Guide to MongoDB</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(381).pdf" style="text-decoration:none;">Creating your MySQL Database: Practical Design Tips and Techniques </a></b></li>
+
+
 
 
   </ul>   
