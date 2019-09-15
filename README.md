@@ -954,4 +954,42 @@ Strategies</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(386).pdf" style="text-decoration:none;">Data Modeling Essentials</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/dst(0036).pdf" style="text-decoration:none;">Database in Depth: The Relational Model for Practitioners</a></b></li>
 
-  </ul>   
+  </ul>
+  
+  </br>
+  
+  <h2> Cloud Computing: </h2>
+
+<ul>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(1).pdf" style="text-decoration:none;">Cloud Computing For Dummies</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(2).pdf" style="text-decoration:none;">Cloud Computing: Principles and Paradigms</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(3).pdf" style="text-decoration:none;">Secure Cloud Computing</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(4).pdf" style="text-decoration:none;">Architecting the Cloud: Design Decisions for Cloud Computing Service Models (SaaS, PaaS, and IaaS)</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(5).pdf" style="text-decoration:none;">A Complete Guide to Cloud Computing</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(6).pdf" style="text-decoration:none;">Cloud Computing Bible</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(7).pdf" style="text-decoration:none;">Handbook of Cloud Computing</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(8).pdf" style="text-decoration:none;">The Basics of Cloud Computing: Understanding the Fundamentals of Cloud Computing in Theory and Practice</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(9).pdf" style="text-decoration:none;">Cloud Computing: Technologies and Strategies of the Ubiquitous Data Center</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(10).pdf" style="text-decoration:none;">Cloud Computing: Implementation, Management, and Security</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(11).pdf" style="text-decoration:none;">Big-Data Analytics and Cloud Computing: Theory, Algorithms and Applications</a></b></li>   
+   
+
+  
+  
+ 
+  </ul>
+  
+  
+  
+  
