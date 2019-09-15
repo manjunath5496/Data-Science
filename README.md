@@ -985,6 +985,25 @@ Strategies</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(11).pdf" style="text-decoration:none;">Big-Data Analytics and Cloud Computing: Theory, Algorithms and Applications</a></b></li>   
    
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(12).pdf" style="text-decoration:none;">Cloud Computing and Computer Clouds</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(13).pdf" style="text-decoration:none;">Cloud Computing and Services Sciences</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(14).pdf" style="text-decoration:none;">Cloud Computing for Geospatial Big Data Analytics</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(15).pdf" style="text-decoration:none;">Cloud Computing Patterns: Fundamentals to Design, Build, and Manage Cloud Applications</a></b></li>   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(16).pdf" style="text-decoration:none;">Data Security in Cloud Computing</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(17).pdf" style="text-decoration:none;">Internet Infrastructure: Networking, Web Services, and Cloud Computing</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(18).pdf" style="text-decoration:none;">Moving to the Cloud: Developing Apps in the New World of Cloud Computing</a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(19).pdf" style="text-decoration:none;">Business in the Cloud: What Every Business Needs to Know About Cloud Computing</a></b></li>     
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science/blob/master/ccm(20).pdf" style="text-decoration:none;">Distributed and Cloud Computing: From Parallel Processing to the Internet of Things</a></b></li>
+
+  
   
   
  
