@@ -1231,8 +1231,8 @@ Strategies</a></b></li>
 </ul>
 
 </br>
-<p> <strong> </strong> </p>
-
+<p> <strong>Impactful Papers and Literature on AI </strong> </p>
+<hr>
 <h2>AI Hardware: </h2>
 
 <ul>
