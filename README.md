@@ -2513,7 +2513,7 @@ Strategies</a></b></li>
 
 </br>
 
-<h2>Face Recognition Books: </h2>
+<h2>Face Recognition: </h2>
 
 <ul>
 
