@@ -1,3 +1,244 @@
+<table class="vertical-navbox nowraplinks">
+<tbody>
+<tr>
+<th><a title="Machine learning" href="https://en.wikipedia.org/wiki/Machine_learning" data-smd-id="s15">Machine learning</a>&nbsp;and<br /><a title="Data mining" href="https://en.wikipedia.org/wiki/Data_mining" data-smd-id="s16">data mining</a></th>
+</tr>
+<tr>
+<td><a class="image" href="https://manjunath5496.github.io/data_science.png" data-smd-id="s17"><img src="https://manjunath5496.github.io/data_science.png" srcset="https://manjunath5496.github.io/data_science.png" alt="Kernel Machine.svg" width="220" height="100" data-file-width="512" data-file-height="233" data-smd-id="s18" /></a></td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame1" class="NavFrame collapsed">
+<div class="NavHead">Problems</div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="Statistical classification" href="https://en.wikipedia.org/wiki/Statistical_classification" data-smd-id="s19">Classification</a></li>
+<li><a title="Cluster analysis" href="https://en.wikipedia.org/wiki/Cluster_analysis" data-smd-id="s20">Clustering</a></li>
+<li><a title="Regression analysis" href="https://en.wikipedia.org/wiki/Regression_analysis" data-smd-id="s21">Regression</a></li>
+<li><a title="Anomaly detection" href="https://en.wikipedia.org/wiki/Anomaly_detection" data-smd-id="s22">Anomaly detection</a></li>
+<li><a title="Automated machine learning" href="https://en.wikipedia.org/wiki/Automated_machine_learning" data-smd-id="s23">AutoML</a></li>
+<li><a title="Association rule learning" href="https://en.wikipedia.org/wiki/Association_rule_learning" data-smd-id="s24">Association rules</a></li>
+<li><a title="Reinforcement learning" href="https://en.wikipedia.org/wiki/Reinforcement_learning" data-smd-id="s25">Reinforcement learning</a></li>
+<li><a title="Structured prediction" href="https://en.wikipedia.org/wiki/Structured_prediction" data-smd-id="s26">Structured prediction</a></li>
+<li><a title="Feature engineering" href="https://en.wikipedia.org/wiki/Feature_engineering" data-smd-id="s27">Feature engineering</a></li>
+<li><a title="Feature learning" href="https://en.wikipedia.org/wiki/Feature_learning" data-smd-id="s28">Feature learning</a></li>
+<li><a title="Online machine learning" href="https://en.wikipedia.org/wiki/Online_machine_learning" data-smd-id="s29">Online learning</a></li>
+<li><a title="Semi-supervised learning" href="https://en.wikipedia.org/wiki/Semi-supervised_learning" data-smd-id="s30">Semi-supervised learning</a></li>
+<li><a title="Unsupervised learning" href="https://en.wikipedia.org/wiki/Unsupervised_learning" data-smd-id="s31">Unsupervised learning</a></li>
+<li><a title="Learning to rank" href="https://en.wikipedia.org/wiki/Learning_to_rank" data-smd-id="s32">Learning to rank</a></li>
+<li><a title="Grammar induction" href="https://en.wikipedia.org/wiki/Grammar_induction" data-smd-id="s33">Grammar induction</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame2" class="NavFrame collapsed">
+<div class="NavHead">
+<div><a title="Supervised learning" href="https://en.wikipedia.org/wiki/Supervised_learning" data-smd-id="s34">Supervised learning</a><br /><span class="nobold">(<strong><a title="Statistical classification" href="https://en.wikipedia.org/wiki/Statistical_classification" data-smd-id="s35">classification</a></strong>&nbsp;&bull;&nbsp;<strong><a title="Regression analysis" href="https://en.wikipedia.org/wiki/Regression_analysis" data-smd-id="s36">regression</a></strong>)</span></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame3" class="NavFrame collapsed">
+<div class="NavHead"><a title="Cluster analysis" href="https://en.wikipedia.org/wiki/Cluster_analysis" data-smd-id="s50">Clustering</a></div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="BIRCH" href="https://en.wikipedia.org/wiki/BIRCH" data-smd-id="s51">BIRCH</a></li>
+<li><a class="mw-redirect" title="CURE data clustering algorithm" href="https://en.wikipedia.org/wiki/CURE_data_clustering_algorithm" data-smd-id="s52">CURE</a></li>
+<li><a title="Hierarchical clustering" href="https://en.wikipedia.org/wiki/Hierarchical_clustering" data-smd-id="s53">Hierarchical</a></li>
+<li><a title="K-means clustering" href="https://en.wikipedia.org/wiki/K-means_clustering" data-smd-id="s54"><em>k</em>-means</a></li>
+<li><a title="Expectation&ndash;maximization algorithm" href="https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm" data-smd-id="s55">Expectation&ndash;maximization (EM)</a></li>
+<li><a title="DBSCAN" href="https://en.wikipedia.org/wiki/DBSCAN" data-smd-id="s56">DBSCAN</a></li>
+<li><a title="OPTICS algorithm" href="https://en.wikipedia.org/wiki/OPTICS_algorithm" data-smd-id="s57">OPTICS</a></li>
+<li><a class="mw-redirect" title="Mean-shift" href="https://en.wikipedia.org/wiki/Mean-shift" data-smd-id="s58">Mean-shift</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame4" class="NavFrame collapsed">
+<div class="NavHead"><a title="Dimensionality reduction" href="https://en.wikipedia.org/wiki/Dimensionality_reduction" data-smd-id="s59">Dimensionality reduction</a></div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="Factor analysis" href="https://en.wikipedia.org/wiki/Factor_analysis" data-smd-id="s60">Factor analysis</a></li>
+<li><a class="mw-redirect" title="Canonical correlation analysis" href="https://en.wikipedia.org/wiki/Canonical_correlation_analysis" data-smd-id="s61">CCA</a></li>
+<li><a title="Independent component analysis" href="https://en.wikipedia.org/wiki/Independent_component_analysis" data-smd-id="s62">ICA</a></li>
+<li><a title="Linear discriminant analysis" href="https://en.wikipedia.org/wiki/Linear_discriminant_analysis" data-smd-id="s63">LDA</a></li>
+<li><a title="Non-negative matrix factorization" href="https://en.wikipedia.org/wiki/Non-negative_matrix_factorization" data-smd-id="s64">NMF</a></li>
+<li><a title="Principal component analysis" href="https://en.wikipedia.org/wiki/Principal_component_analysis" data-smd-id="s65">PCA</a></li>
+<li><a title="T-distributed stochastic neighbor embedding" href="https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding" data-smd-id="s66">t-SNE</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame5" class="NavFrame collapsed">
+<div class="NavHead"><a title="Structured prediction" href="https://en.wikipedia.org/wiki/Structured_prediction" data-smd-id="s67">Structured prediction</a></div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="Graphical model" href="https://en.wikipedia.org/wiki/Graphical_model" data-smd-id="s68">Graphical models</a>&nbsp;
+<ul>
+<li><a title="Bayesian network" href="https://en.wikipedia.org/wiki/Bayesian_network" data-smd-id="s69">Bayes net</a></li>
+<li><a title="Conditional random field" href="https://en.wikipedia.org/wiki/Conditional_random_field" data-smd-id="s70">Conditional random field</a></li>
+<li><a title="Hidden Markov model" href="https://en.wikipedia.org/wiki/Hidden_Markov_model" data-smd-id="s71">Hidden Markov</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame6" class="NavFrame collapsed">
+<div class="NavHead"><a title="Anomaly detection" href="https://en.wikipedia.org/wiki/Anomaly_detection" data-smd-id="s72">Anomaly detection</a></div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a class="mw-redirect" title="K-nearest neighbors classification" href="https://en.wikipedia.org/wiki/K-nearest_neighbors_classification" data-smd-id="s73"><em>k</em>-NN</a></li>
+<li><a title="Local outlier factor" href="https://en.wikipedia.org/wiki/Local_outlier_factor" data-smd-id="s74">Local outlier factor</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame7" class="NavFrame collapsed">
+<div class="NavHead"><a title="Artificial neural network" href="https://en.wikipedia.org/wiki/Artificial_neural_network" data-smd-id="s75">Artificial neural network</a></div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="Autoencoder" href="https://en.wikipedia.org/wiki/Autoencoder" data-smd-id="s76">Autoencoder</a></li>
+<li><a title="Deep learning" href="https://en.wikipedia.org/wiki/Deep_learning" data-smd-id="s77">Deep learning</a></li>
+<li><a title="DeepDream" href="https://en.wikipedia.org/wiki/DeepDream" data-smd-id="s78">DeepDream</a></li>
+<li><a title="Multilayer perceptron" href="https://en.wikipedia.org/wiki/Multilayer_perceptron" data-smd-id="s79">Multilayer perceptron</a></li>
+<li><a title="Recurrent neural network" href="https://en.wikipedia.org/wiki/Recurrent_neural_network" data-smd-id="s80">RNN</a>&nbsp;
+<ul>
+<li><a title="Long short-term memory" href="https://en.wikipedia.org/wiki/Long_short-term_memory" data-smd-id="s81">LSTM</a></li>
+<li><a title="Gated recurrent unit" href="https://en.wikipedia.org/wiki/Gated_recurrent_unit" data-smd-id="s82">GRU</a></li>
+</ul>
+</li>
+<li><a title="Restricted Boltzmann machine" href="https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine" data-smd-id="s83">Restricted Boltzmann machine</a></li>
+<li><a title="Generative adversarial network" href="https://en.wikipedia.org/wiki/Generative_adversarial_network" data-smd-id="s84">GAN</a></li>
+<li><a title="Self-organizing map" href="https://en.wikipedia.org/wiki/Self-organizing_map" data-smd-id="s85">SOM</a></li>
+<li><a title="Convolutional neural network" href="https://en.wikipedia.org/wiki/Convolutional_neural_network" data-smd-id="s86">Convolutional neural network</a>&nbsp;
+<ul>
+<li><a title="U-Net" href="https://en.wikipedia.org/wiki/U-Net" data-smd-id="s87">U-Net</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame8" class="NavFrame collapsed">
+<div class="NavHead"><a title="Reinforcement learning" href="https://en.wikipedia.org/wiki/Reinforcement_learning" data-smd-id="s88">Reinforcement learning</a></div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="Q-learning" href="https://en.wikipedia.org/wiki/Q-learning" data-smd-id="s89">Q-learning</a></li>
+<li><a title="State&ndash;action&ndash;reward&ndash;state&ndash;action" href="https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action" data-smd-id="s90">SARSA</a></li>
+<li><a title="Temporal difference learning" href="https://en.wikipedia.org/wiki/Temporal_difference_learning" data-smd-id="s91">Temporal difference (TD)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame9" class="NavFrame collapsed">
+<div class="NavHead">Theory<a id="NavToggle9" class="NavToggle" href="https://en.wikipedia.org/wiki/Data_science#">[hide]</a></div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a class="mw-redirect" title="Bias&ndash;variance dilemma" href="https://en.wikipedia.org/wiki/Bias%E2%80%93variance_dilemma" data-smd-id="s92">Bias&ndash;variance dilemma</a></li>
+<li><a title="Computational learning theory" href="https://en.wikipedia.org/wiki/Computational_learning_theory" data-smd-id="s93">Computational learning theory</a></li>
+<li><a title="Empirical risk minimization" href="https://en.wikipedia.org/wiki/Empirical_risk_minimization" data-smd-id="s94">Empirical risk minimization</a></li>
+<li><a title="Occam learning" href="https://en.wikipedia.org/wiki/Occam_learning" data-smd-id="s95">Occam learning</a></li>
+<li><a title="Probably approximately correct learning" href="https://en.wikipedia.org/wiki/Probably_approximately_correct_learning" data-smd-id="s96">PAC learning</a></li>
+<li><a title="Statistical learning theory" href="https://en.wikipedia.org/wiki/Statistical_learning_theory" data-smd-id="s97">Statistical learning</a></li>
+<li><a title="Vapnik&ndash;Chervonenkis theory" href="https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_theory" data-smd-id="s98">VC theory</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame10" class="NavFrame collapsed">
+<div class="NavHead">Machine-learning venues</div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="Conference on Neural Information Processing Systems" href="https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems" data-smd-id="s99">NeurIPS</a></li>
+<li><a title="International Conference on Machine Learning" href="https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning" data-smd-id="s100">ICML</a></li>
+<li><a title="Machine Learning (journal)" href="https://en.wikipedia.org/wiki/Machine_Learning_(journal)" data-smd-id="s101">ML</a></li>
+<li><a title="Journal of Machine Learning Research" href="https://en.wikipedia.org/wiki/Journal_of_Machine_Learning_Research" data-smd-id="s102">JMLR</a></li>
+<li><a class="external text" href="https://arxiv.org/list/cs.LG/recent" rel="nofollow" data-smd-id="s103">ArXiv:cs.LG</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame11" class="NavFrame collapsed">
+<div class="NavHead"><a title="Glossary of artificial intelligence" href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence" data-smd-id="s104">Glossary of artificial intelligence</a></div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="Glossary of artificial intelligence" href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence" data-smd-id="s105">Glossary of artificial intelligence</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame12" class="NavFrame collapsed">
+<div class="NavHead">Related articles</div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="List of datasets for machine-learning research" href="https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research" data-smd-id="s106">List of datasets for machine-learning research</a></li>
+<li><a title="Outline of machine learning" href="https://en.wikipedia.org/wiki/Outline_of_machine_learning" data-smd-id="s107">Outline of machine learning</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
 <p><strong>Data science</strong>&nbsp;is an&nbsp;<a class="mw-redirect" title="Inter-disciplinary" href="https://en.wikipedia.org/wiki/Inter-disciplinary" data-smd-id="s111">inter-disciplinary</a>&nbsp;field that uses scientific methods, processes, algorithms and systems to extract&nbsp;<a title="Knowledge" href="https://en.wikipedia.org/wiki/Knowledge" data-smd-id="s112">knowledge</a>&nbsp;and insights from structured and&nbsp;<a title="Unstructured data" href="https://en.wikipedia.org/wiki/Unstructured_data" data-smd-id="s113">unstructured data</a>.&nbsp;Data science is related to&nbsp;<a title="Data mining" href="https://en.wikipedia.org/wiki/Data_mining" data-smd-id="s114">data mining</a>&nbsp;and&nbsp;<a title="Big data" href="https://en.wikipedia.org/wiki/Big_data" data-smd-id="s115">big data</a>.</p>
 <p>Data science is a "concept to unify&nbsp;<a title="Statistics" href="https://en.wikipedia.org/wiki/Statistics" data-smd-id="s116">statistics</a>,&nbsp;<a title="Data analysis" href="https://en.wikipedia.org/wiki/Data_analysis" data-smd-id="s117">data analysis</a>,&nbsp;<a title="Machine learning" href="https://en.wikipedia.org/wiki/Machine_learning" data-smd-id="s118">machine learning</a>&nbsp;and their related methods" in order to "understand and analyze actual phenomena" with data.&nbsp;It employs techniques and theories drawn from many fields within the context of&nbsp;<a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics" data-smd-id="s119">mathematics</a>,&nbsp;<a title="Statistics" href="https://en.wikipedia.org/wiki/Statistics" data-smd-id="s120">statistics</a>,&nbsp;<a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science" data-smd-id="s121">computer science</a>, and&nbsp;<a title="Information science" href="https://en.wikipedia.org/wiki/Information_science" data-smd-id="s122">information science</a>.&nbsp;<a class="mw-redirect" title="Turing award" href="https://en.wikipedia.org/wiki/Turing_award" data-smd-id="s123">Turing award</a>&nbsp;winner&nbsp;<a title="Jim Gray (computer scientist)" href="https://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)" data-smd-id="s124">Jim Gray</a>&nbsp;imagined data science as a "fourth paradigm" of science (<a title="Empirical research" href="https://en.wikipedia.org/wiki/Empirical_research" data-smd-id="s125">empirical</a>,&nbsp;<a title="Basic research" href="https://en.wikipedia.org/wiki/Basic_research" data-smd-id="s126">theoretical</a>,&nbsp;<a title="Computational science" href="https://en.wikipedia.org/wiki/Computational_science" data-smd-id="s127">computational</a>&nbsp;and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the&nbsp;<a title="Information explosion" href="https://en.wikipedia.org/wiki/Information_explosion" data-smd-id="s128">data deluge</a>. In 2015, the&nbsp;<a title="American Statistical Association" href="https://en.wikipedia.org/wiki/American_Statistical_Association" data-smd-id="s129">American Statistical Association</a>&nbsp;identified&nbsp;<a title="Database" href="https://en.wikipedia.org/wiki/Database" data-smd-id="s130">database management</a>, statistics and&nbsp;<a title="Machine learning" href="https://en.wikipedia.org/wiki/Machine_learning" data-smd-id="s131">machine learning</a>, and&nbsp;<a title="Distributed computing" href="https://en.wikipedia.org/wiki/Distributed_computing" data-smd-id="s132">distributed and parallel systems</a>&nbsp;as the three emerging foundational professional communities.</p>
 </br>
